@@ -6,8 +6,10 @@ A command-line styled AI chatbot designed to simulate interaction with a bold, n
 
 ## 🔗 Try the App Now
 
-👉 **Live App:** [https://sparkling-pie-8890ff.netlify.app/](https://sparkling-pie-8890ff.netlify.app/)  
-> ⚠️ This chatbot is purposefully designed to handle only DSA-related questions. Off-topic queries will receive direct and strict responses.
+👉 **Live App:** https://astonishing-faloodeh-e24544.netlify.app/
+
+
+This chatbot is purposefully designed to handle only DSA-related questions. Off-topic queries will receive direct and strict responses.
 
 ---
 
@@ -30,8 +32,8 @@ A command-line styled AI chatbot designed to simulate interaction with a bold, n
 ## 📁 Project Structure
 
 ```bash
-├── index.html           # (Optional) Landing page
-├── chat.html            # Main interactive terminal UI
-├── dsa.js               # Node.js backend with Gemini API logic
-├── style.css            # Custom styling for terminal look
-├── README.md            # Project documentation (this file)
+├── index.html           
+├── chat.html            
+├── dsa.js               
+├── style.css            
+├── README.md            
